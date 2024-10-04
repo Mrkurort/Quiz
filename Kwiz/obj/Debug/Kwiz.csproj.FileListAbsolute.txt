@@ -1,0 +1,16 @@
+C:\Users\213\source\repos\Kwiz\bin\Debug\Kwiz.exe.config
+C:\Users\213\source\repos\Kwiz\bin\Debug\Kwiz.exe
+C:\Users\213\source\repos\Kwiz\bin\Debug\Kwiz.pdb
+C:\Users\213\source\repos\Kwiz\obj\Debug\Kwiz.csproj.AssemblyReference.cache
+C:\Users\213\source\repos\Kwiz\obj\Debug\Kwiz.Properties.Resources.resources
+C:\Users\213\source\repos\Kwiz\obj\Debug\Kwiz.csproj.GenerateResource.cache
+C:\Users\213\source\repos\Kwiz\obj\Debug\Kwiz.csproj.CoreCompileInputs.cache
+C:\Users\213\source\repos\Kwiz\obj\Debug\Kwiz.exe
+C:\Users\213\source\repos\Kwiz\obj\Debug\Kwiz.pdb
+C:\Users\213\source\repos\Kwiz\bin\Debug\Guna.UI2.dll
+C:\Users\213\source\repos\Kwiz\obj\Debug\Kwiz.csproj.Up2Date
+C:\Users\213\source\repos\Kwiz\obj\Debug\Kwiz.Form1.resources
+C:\Users\213\source\repos\Kwiz\obj\Debug\Kwiz.Dificulty.resources
+C:\Users\213\source\repos\Kwiz\obj\Debug\Kwiz.Quest1.resources
+C:\Users\213\source\repos\Kwiz\obj\Debug\Kwiz.GameOver.resources
+C:\Users\213\source\repos\Kwiz\obj\Debug\Kwiz.UCQuest.resources
