@@ -179,5 +179,15 @@ namespace Kwiz.Properties {
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Icon, аналогичного (Значок).
+        /// </summary>
+        internal static System.Drawing.Icon peace_mind_555701 {
+            get {
+                object obj = ResourceManager.GetObject("peace_mind_555701", resourceCulture);
+                return ((System.Drawing.Icon)(obj));
+            }
+        }
     }
 }
