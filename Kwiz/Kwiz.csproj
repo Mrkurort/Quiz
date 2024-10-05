@@ -70,20 +70,31 @@
     <Compile Include="GameOver.Designer.cs">
       <DependentUpon>GameOver.cs</DependentUpon>
     </Compile>
+    <Compile Include="GameOverG.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GameOverG.Designer.cs">
+      <DependentUpon>GameOverG.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Quest.cs" />
+    <Compile Include="Quest3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Quest3.Designer.cs">
+      <DependentUpon>Quest3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Quest2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Quest2.Designer.cs">
+      <DependentUpon>Quest2.cs</DependentUpon>
+    </Compile>
     <Compile Include="Quest1.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Quest1.Designer.cs">
       <DependentUpon>Quest1.cs</DependentUpon>
-    </Compile>
-    <Compile Include="UCQuest.cs">
-      <SubType>UserControl</SubType>
-    </Compile>
-    <Compile Include="UCQuest.Designer.cs">
-      <DependentUpon>UCQuest.cs</DependentUpon>
     </Compile>
     <EmbeddedResource Include="Dificulty.resx">
       <DependentUpon>Dificulty.cs</DependentUpon>
@@ -93,6 +104,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="GameOver.resx">
       <DependentUpon>GameOver.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GameOverG.resx">
+      <DependentUpon>GameOverG.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -104,11 +118,14 @@
       <DependentUpon>Resources.resx</DependentUpon>
       <DesignTime>True</DesignTime>
     </Compile>
+    <EmbeddedResource Include="Quest3.resx">
+      <DependentUpon>Quest3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Quest2.resx">
+      <DependentUpon>Quest2.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Quest1.resx">
       <DependentUpon>Quest1.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="UCQuest.resx">
-      <DependentUpon>UCQuest.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="packages.config" />
     <None Include="Properties\Settings.settings">
@@ -159,6 +176,21 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\photo_2024-10-04_22-53-32.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\photo_2024-10-05_13-50-03.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\peace-mind_555701.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\photo_2024-10-05_19-21-46.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\photo_2024-10-05_19-31-23.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\photo_2024-10-05_19-41-06.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

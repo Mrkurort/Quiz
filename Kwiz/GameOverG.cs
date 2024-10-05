@@ -10,11 +10,18 @@ using System.Windows.Forms;
 
 namespace Kwiz
 {
-    public partial class UCQuest : UserControl
+    public partial class GameOverG : Form
     {
-        public UCQuest()
+        public GameOverG()
         {
             InitializeComponent();
+        }
+        Form1 menu = new Form1();
+
+        private void guna2Button7_Click(object sender, EventArgs e)
+        {
+            menu.Show();
+            Close();
         }
     }
 }

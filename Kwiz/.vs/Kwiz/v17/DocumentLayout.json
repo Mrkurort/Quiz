@@ -1,54 +1,70 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\213\\source\\repos\\Kwiz\\",
+  "WorkspaceRootPath": "D:\\GitHub\\Quiz\\Kwiz\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E99AA4FF-03CE-43C6-9C7E-C20724834546}|Kwiz.csproj|C:\\Users\\213\\source\\repos\\Kwiz\\quest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E99AA4FF-03CE-43C6-9C7E-C20724834546}|Kwiz.csproj|solutionrelative:quest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E99AA4FF-03CE-43C6-9C7E-C20724834546}|Kwiz.csproj|C:\\Users\\213\\source\\repos\\Kwiz\\quest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E99AA4FF-03CE-43C6-9C7E-C20724834546}|Kwiz.csproj|d:\\github\\quiz\\kwiz\\quest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E99AA4FF-03CE-43C6-9C7E-C20724834546}|Kwiz.csproj|solutionrelative:quest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E99AA4FF-03CE-43C6-9C7E-C20724834546}|Kwiz.csproj|C:\\Users\\213\\source\\repos\\Kwiz\\quest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{E99AA4FF-03CE-43C6-9C7E-C20724834546}|Kwiz.csproj|D:\\GitHub\\Quiz\\Kwiz\\quest3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E99AA4FF-03CE-43C6-9C7E-C20724834546}|Kwiz.csproj|solutionrelative:quest3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E99AA4FF-03CE-43C6-9C7E-C20724834546}|Kwiz.csproj|D:\\GitHub\\Quiz\\Kwiz\\quest2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E99AA4FF-03CE-43C6-9C7E-C20724834546}|Kwiz.csproj|solutionrelative:quest2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E99AA4FF-03CE-43C6-9C7E-C20724834546}|Kwiz.csproj|D:\\GitHub\\Quiz\\Kwiz\\quest3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E99AA4FF-03CE-43C6-9C7E-C20724834546}|Kwiz.csproj|solutionrelative:quest3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E99AA4FF-03CE-43C6-9C7E-C20724834546}|Kwiz.csproj|D:\\GitHub\\Quiz\\Kwiz\\quest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{E99AA4FF-03CE-43C6-9C7E-C20724834546}|Kwiz.csproj|solutionrelative:quest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E99AA4FF-03CE-43C6-9C7E-C20724834546}|Kwiz.csproj|C:\\Users\\213\\source\\repos\\Kwiz\\dificulty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{E99AA4FF-03CE-43C6-9C7E-C20724834546}|Kwiz.csproj|D:\\GitHub\\Quiz\\Kwiz\\quest2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E99AA4FF-03CE-43C6-9C7E-C20724834546}|Kwiz.csproj|solutionrelative:quest2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E99AA4FF-03CE-43C6-9C7E-C20724834546}|Kwiz.csproj|D:\\GitHub\\Quiz\\Kwiz\\dificulty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{E99AA4FF-03CE-43C6-9C7E-C20724834546}|Kwiz.csproj|solutionrelative:dificulty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E99AA4FF-03CE-43C6-9C7E-C20724834546}|Kwiz.csproj|C:\\Users\\213\\source\\repos\\Kwiz\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{E99AA4FF-03CE-43C6-9C7E-C20724834546}|Kwiz.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{E99AA4FF-03CE-43C6-9C7E-C20724834546}|Kwiz.csproj|D:\\GitHub\\Quiz\\Kwiz\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E99AA4FF-03CE-43C6-9C7E-C20724834546}|Kwiz.csproj|solutionrelative:Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E99AA4FF-03CE-43C6-9C7E-C20724834546}|Kwiz.csproj|C:\\Users\\213\\source\\repos\\Kwiz\\gameover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{E99AA4FF-03CE-43C6-9C7E-C20724834546}|Kwiz.csproj|solutionrelative:gameover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{E99AA4FF-03CE-43C6-9C7E-C20724834546}|Kwiz.csproj|D:\\GitHub\\Quiz\\Kwiz\\resources\\photo_2024-10-05_19-41-06.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{E99AA4FF-03CE-43C6-9C7E-C20724834546}|Kwiz.csproj|solutionrelative:resources\\photo_2024-10-05_19-41-06.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E99AA4FF-03CE-43C6-9C7E-C20724834546}|Kwiz.csproj|C:\\Users\\213\\source\\repos\\Kwiz\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "AbsoluteMoniker": "D:0:0:{E99AA4FF-03CE-43C6-9C7E-C20724834546}|Kwiz.csproj|D:\\GitHub\\Quiz\\Kwiz\\Dificulty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E99AA4FF-03CE-43C6-9C7E-C20724834546}|Kwiz.csproj|solutionrelative:Dificulty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E99AA4FF-03CE-43C6-9C7E-C20724834546}|Kwiz.csproj|D:\\GitHub\\Quiz\\Kwiz\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
       "RelativeMoniker": "D:0:0:{E99AA4FF-03CE-43C6-9C7E-C20724834546}|Kwiz.csproj|solutionrelative:properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E99AA4FF-03CE-43C6-9C7E-C20724834546}|Kwiz.csproj|c:\\users\\213\\source\\repos\\kwiz\\ucquest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E99AA4FF-03CE-43C6-9C7E-C20724834546}|Kwiz.csproj|solutionrelative:ucquest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E99AA4FF-03CE-43C6-9C7E-C20724834546}|Kwiz.csproj|D:\\GitHub\\Quiz\\Kwiz\\gameoverg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E99AA4FF-03CE-43C6-9C7E-C20724834546}|Kwiz.csproj|solutionrelative:gameoverg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E99AA4FF-03CE-43C6-9C7E-C20724834546}|Kwiz.csproj|c:\\users\\213\\source\\repos\\kwiz\\ucquest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{E99AA4FF-03CE-43C6-9C7E-C20724834546}|Kwiz.csproj|solutionrelative:ucquest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{E99AA4FF-03CE-43C6-9C7E-C20724834546}|Kwiz.csproj|D:\\GitHub\\Quiz\\Kwiz\\gameover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E99AA4FF-03CE-43C6-9C7E-C20724834546}|Kwiz.csproj|solutionrelative:gameover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E99AA4FF-03CE-43C6-9C7E-C20724834546}|Kwiz.csproj|c:\\users\\213\\source\\repos\\kwiz\\gameover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E99AA4FF-03CE-43C6-9C7E-C20724834546}|Kwiz.csproj|solutionrelative:gameover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E99AA4FF-03CE-43C6-9C7E-C20724834546}|Kwiz.csproj|D:\\GitHub\\Quiz\\Kwiz\\gameoverg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E99AA4FF-03CE-43C6-9C7E-C20724834546}|Kwiz.csproj|solutionrelative:gameoverg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E99AA4FF-03CE-43C6-9C7E-C20724834546}|Kwiz.csproj|C:\\Users\\213\\source\\repos\\Kwiz\\dificulty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E99AA4FF-03CE-43C6-9C7E-C20724834546}|Kwiz.csproj|solutionrelative:dificulty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E99AA4FF-03CE-43C6-9C7E-C20724834546}|Kwiz.csproj|D:\\GitHub\\Quiz\\Kwiz\\GameOver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E99AA4FF-03CE-43C6-9C7E-C20724834546}|Kwiz.csproj|solutionrelative:GameOver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E99AA4FF-03CE-43C6-9C7E-C20724834546}|Kwiz.csproj|C:\\Users\\213\\source\\repos\\Kwiz\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E99AA4FF-03CE-43C6-9C7E-C20724834546}|Kwiz.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E99AA4FF-03CE-43C6-9C7E-C20724834546}|Kwiz.csproj|D:\\GitHub\\Quiz\\Kwiz\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E99AA4FF-03CE-43C6-9C7E-C20724834546}|Kwiz.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,141 +74,99 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "GameOver.cs",
-              "DocumentMoniker": "C:\\Users\\213\\source\\repos\\Kwiz\\GameOver.cs",
-              "RelativeDocumentMoniker": "GameOver.cs",
-              "ToolTip": "C:\\Users\\213\\source\\repos\\Kwiz\\GameOver.cs",
-              "RelativeToolTip": "GameOver.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T17:54:28.82Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "UCQuest.cs",
-              "DocumentMoniker": "C:\\Users\\213\\source\\repos\\Kwiz\\UCQuest.cs",
-              "RelativeDocumentMoniker": "UCQuest.cs",
-              "ToolTip": "C:\\Users\\213\\source\\repos\\Kwiz\\UCQuest.cs",
-              "RelativeToolTip": "UCQuest.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T17:44:29.911Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "UCQuest.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "DocumentMoniker": "C:\\Users\\213\\source\\repos\\Kwiz\\UCQuest.cs",
-              "RelativeDocumentMoniker": "UCQuest.cs",
-              "ToolTip": "C:\\Users\\213\\source\\repos\\Kwiz\\UCQuest.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "RelativeToolTip": "UCQuest.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T15:49:23.761Z",
-              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+              "Title": "photo_2024-10-05_19-41-06.jpg",
+              "DocumentMoniker": "D:\\GitHub\\Quiz\\Kwiz\\Resources\\photo_2024-10-05_19-41-06.jpg",
+              "RelativeDocumentMoniker": "Resources\\photo_2024-10-05_19-41-06.jpg",
+              "ToolTip": "D:\\GitHub\\Quiz\\Kwiz\\Resources\\photo_2024-10-05_19-41-06.jpg",
+              "RelativeToolTip": "Resources\\photo_2024-10-05_19-41-06.jpg",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-10-05T14:42:13.256Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Quest.cs",
-              "DocumentMoniker": "C:\\Users\\213\\source\\repos\\Kwiz\\Quest.cs",
-              "RelativeDocumentMoniker": "Quest.cs",
-              "ToolTip": "C:\\Users\\213\\source\\repos\\Kwiz\\Quest.cs",
-              "RelativeToolTip": "Quest.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAADcAAAAJAAAA",
+              "DocumentIndex": 13,
+              "Title": "GameOverG.cs",
+              "DocumentMoniker": "D:\\GitHub\\Quiz\\Kwiz\\GameOverG.cs",
+              "RelativeDocumentMoniker": "GameOverG.cs",
+              "ToolTip": "D:\\GitHub\\Quiz\\Kwiz\\GameOverG.cs",
+              "RelativeToolTip": "GameOverG.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T15:05:25.586Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-05T14:32:37.596Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "GameOver.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "DocumentMoniker": "C:\\Users\\213\\source\\repos\\Kwiz\\GameOver.cs",
-              "RelativeDocumentMoniker": "GameOver.cs",
-              "ToolTip": "C:\\Users\\213\\source\\repos\\Kwiz\\GameOver.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "RelativeToolTip": "GameOver.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentIndex": 11,
+              "Title": "GameOverG.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\GitHub\\Quiz\\Kwiz\\GameOverG.cs",
+              "RelativeDocumentMoniker": "GameOverG.cs",
+              "ToolTip": "D:\\GitHub\\Quiz\\Kwiz\\GameOverG.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "GameOverG.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T15:00:21.285Z",
-              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+              "WhenOpened": "2024-10-05T14:30:35.269Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Quest1.cs",
-              "DocumentMoniker": "C:\\Users\\213\\source\\repos\\Kwiz\\Quest1.cs",
-              "RelativeDocumentMoniker": "Quest1.cs",
-              "ToolTip": "C:\\Users\\213\\source\\repos\\Kwiz\\Quest1.cs",
-              "RelativeToolTip": "Quest1.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAhwB4AAAAhAAAA",
+              "Title": "Quest3.cs",
+              "DocumentMoniker": "D:\\GitHub\\Quiz\\Kwiz\\Quest3.cs",
+              "RelativeDocumentMoniker": "Quest3.cs",
+              "ToolTip": "D:\\GitHub\\Quiz\\Kwiz\\Quest3.cs",
+              "RelativeToolTip": "Quest3.cs",
+              "ViewState": "AQIAALEAAAAAAAAAAAAcwOgAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T18:45:58.681Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Quest1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "DocumentMoniker": "C:\\Users\\213\\source\\repos\\Kwiz\\Quest1.cs",
-              "RelativeDocumentMoniker": "Quest1.cs",
-              "ToolTip": "C:\\Users\\213\\source\\repos\\Kwiz\\Quest1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "RelativeToolTip": "Quest1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T18:45:39.069Z",
-              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Dificulty.cs",
-              "DocumentMoniker": "C:\\Users\\213\\source\\repos\\Kwiz\\Dificulty.cs",
-              "RelativeDocumentMoniker": "Dificulty.cs",
-              "ToolTip": "C:\\Users\\213\\source\\repos\\Kwiz\\Dificulty.cs",
-              "RelativeToolTip": "Dificulty.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T18:34:03.289Z",
+              "WhenOpened": "2024-10-05T14:18:48.365Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Dificulty.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "DocumentMoniker": "C:\\Users\\213\\source\\repos\\Kwiz\\Dificulty.cs",
-              "RelativeDocumentMoniker": "Dificulty.cs",
-              "ToolTip": "C:\\Users\\213\\source\\repos\\Kwiz\\Dificulty.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "RelativeToolTip": "Dificulty.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Title": "Quest3.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\GitHub\\Quiz\\Kwiz\\Quest3.cs",
+              "RelativeDocumentMoniker": "Quest3.cs",
+              "ToolTip": "D:\\GitHub\\Quiz\\Kwiz\\Quest3.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Quest3.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T18:32:26.815Z",
+              "WhenOpened": "2024-10-05T14:18:46.627Z",
               "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\213\\source\\repos\\Kwiz\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\213\\source\\repos\\Kwiz\\Form1.cs",
-              "RelativeToolTip": "Form1.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAApwB0AAAATAAAA",
+              "DocumentIndex": 2,
+              "Title": "Quest2.cs",
+              "DocumentMoniker": "D:\\GitHub\\Quiz\\Kwiz\\Quest2.cs",
+              "RelativeDocumentMoniker": "Quest2.cs",
+              "ToolTip": "D:\\GitHub\\Quiz\\Kwiz\\Quest2.cs",
+              "RelativeToolTip": "Quest2.cs",
+              "ViewState": "AQIAAJkAAAAAAAAAAAAIwK0AAAA5AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T17:45:53.673Z",
+              "WhenOpened": "2024-10-05T14:15:40.936Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
+              "Title": "Quest2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\GitHub\\Quiz\\Kwiz\\Quest2.cs",
+              "RelativeDocumentMoniker": "Quest2.cs",
+              "ToolTip": "D:\\GitHub\\Quiz\\Kwiz\\Quest2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Quest2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T14:15:38.414Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "Resources.resx",
-              "DocumentMoniker": "C:\\Users\\213\\source\\repos\\Kwiz\\Properties\\Resources.resx",
+              "DocumentMoniker": "D:\\GitHub\\Quiz\\Kwiz\\Properties\\Resources.resx",
               "RelativeDocumentMoniker": "Properties\\Resources.resx",
-              "ToolTip": "C:\\Users\\213\\source\\repos\\Kwiz\\Properties\\Resources.resx",
+              "ToolTip": "D:\\GitHub\\Quiz\\Kwiz\\Properties\\Resources.resx",
               "RelativeToolTip": "Properties\\Resources.resx",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
               "WhenOpened": "2024-10-03T17:42:28.154Z",
@@ -200,15 +174,96 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "DocumentMoniker": "C:\\Users\\213\\source\\repos\\Kwiz\\Form1.cs",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\GitHub\\Quiz\\Kwiz\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\213\\source\\repos\\Kwiz\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "ToolTip": "D:\\GitHub\\Quiz\\Kwiz\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAiwBwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T17:45:53.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GameOver.cs",
+              "DocumentMoniker": "D:\\GitHub\\Quiz\\Kwiz\\GameOver.cs",
+              "RelativeDocumentMoniker": "GameOver.cs",
+              "ToolTip": "D:\\GitHub\\Quiz\\Kwiz\\GameOver.cs",
+              "RelativeToolTip": "GameOver.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T17:54:28.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GameOver.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\GitHub\\Quiz\\Kwiz\\GameOver.cs",
+              "RelativeDocumentMoniker": "GameOver.cs",
+              "ToolTip": "D:\\GitHub\\Quiz\\Kwiz\\GameOver.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "GameOver.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T15:00:21.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Quest1.cs",
+              "DocumentMoniker": "D:\\GitHub\\Quiz\\Kwiz\\Quest1.cs",
+              "RelativeDocumentMoniker": "Quest1.cs",
+              "ToolTip": "D:\\GitHub\\Quiz\\Kwiz\\Quest1.cs",
+              "RelativeToolTip": "Quest1.cs",
+              "ViewState": "AQIAAIwAAAAAAAAAAAAIwNAAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T18:45:58.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Quest1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\GitHub\\Quiz\\Kwiz\\Quest1.cs",
+              "RelativeDocumentMoniker": "Quest1.cs",
+              "ToolTip": "D:\\GitHub\\Quiz\\Kwiz\\Quest1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Quest1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T18:45:39.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Dificulty.cs",
+              "DocumentMoniker": "D:\\GitHub\\Quiz\\Kwiz\\Dificulty.cs",
+              "RelativeDocumentMoniker": "Dificulty.cs",
+              "ToolTip": "D:\\GitHub\\Quiz\\Kwiz\\Dificulty.cs",
+              "RelativeToolTip": "Dificulty.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAADgvyQAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T18:34:03.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Dificulty.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\GitHub\\Quiz\\Kwiz\\Dificulty.cs",
+              "RelativeDocumentMoniker": "Dificulty.cs",
+              "ToolTip": "D:\\GitHub\\Quiz\\Kwiz\\Dificulty.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Dificulty.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T18:32:26.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\GitHub\\Quiz\\Kwiz\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\GitHub\\Quiz\\Kwiz\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "RelativeToolTip": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T17:03:15.603Z",
-              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+              "WhenOpened": "2024-10-03T17:03:15.603Z"
             }
           ]
         }
